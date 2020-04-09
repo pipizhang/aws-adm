@@ -1,0 +1,12 @@
+# Common
+.DS_Store
+*.db*
+.sw?
+.vscode
+node_modules
+mariadb
+
+# App
+.env
+.venv
+Dockerfile.tmp
